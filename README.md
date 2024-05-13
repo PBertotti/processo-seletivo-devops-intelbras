@@ -27,8 +27,6 @@ Uma vez realizado o upload da imagem em um repositório, o processo automatizado
 
 Obs.: Os testes deste processo serão realizados uma instância EC2 T2.micro da AWS utilizando o sistema operacional Ubuntu 24.04 LTS.
 
-
 <h2>Prazo e processo de envio do projeto</h2>
 
 O projeto deverá ser registrado em seu Github e enviado para o e-mail: `paulo.cora@intelbras.com.br` até o dia 16/05 às 19:00h.
-
