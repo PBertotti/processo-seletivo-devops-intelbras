@@ -1,6 +1,6 @@
 # Projeto: Deploy de serviço com CI/CD - Processo seletivo Squad Software TMR - Intelbras
 
-Este projeto consiste no desenvolvimento de um processo de CI/CD para o deploy do proejeto de web-server construído em NodeJS anexo a este repositório. A automação do processo de CI/CD deverá ser construída através das guidelines e ferramentas de CI/CD do Gitlab(https://docs.gitlab.com/ee/ci/). O desenvolvimento deste projeto deverá contemplar os seguintes elementos:
+Este projeto consiste no desenvolvimento de um processo de CI/CD para o deploy do projeto de web-server construído em NodeJS anexo a este repositório. A automação do processo de CI/CD deverá ser construída através das guidelines e ferramentas de CI/CD do Gitlab(https://docs.gitlab.com/ee/ci/). O desenvolvimento deste projeto deverá contemplar os seguintes elementos:
 
 1. Criação de Dockerfile do projeto presente neste repositório;
 2. Execução dos testes automatizados do projeto na pipeline de CI/CD do Gitlab;
